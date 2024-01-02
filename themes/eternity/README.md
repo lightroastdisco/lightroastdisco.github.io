@@ -7,6 +7,15 @@
 	</p>
 </div>
 
+> [!WARNING]  
+> This project is currently not being actively maintained.  
+> Please do not create new issues on GitHub.  
+> If you **urgently** require assistance, reach out via email to [**eternity@bora.sh**](mailto:eternity@bora.sh).
+
+> [!IMPORTANT]  
+> If you are interested in taking over the maintenance of this project, please get in touch.  
+> Your support would be greatly appreciated!
+
 ### Demo
 
 Website: [eternity.bora.sh](https://eternity.bora.sh)
@@ -55,12 +64,6 @@ https://user-images.githubusercontent.com/20258973/180658086-24069751-1e78-44ef-
 - [**www.michael-bolus.com**](https://www.michael-bolus.com/)  
   A photographer website.
 
-- [**www.stndc.com**](https://www.stndc.com)  
-  A website about sound and music computing.
-
-- [**magikjefotomaken.be**](https://magikjefotomaken.be/)  
-  A photographer website.
-
 - [**floragrh.com.ar**](https://floragrh.com.ar/)  
   An illustrator website.
 
@@ -76,9 +79,28 @@ https://user-images.githubusercontent.com/20258973/180658086-24069751-1e78-44ef-
 - [**krystalledoux.com**](https://krystalledoux.com/)  
   An artist website.
 
-*Feel free to add your site here.*  
+- [**neilstoddard.com**](https://neilstoddard.com/)  
+  A photographer website.
 
-Note: If you're an artist who wants to host a website but doesn't have know how to, I can help you about technical questions for free. Just send an email to [**eternity@bora.sh**](mailto:eternity@bora.sh), I will assist you first.
+- [**rebeccacomas.com**](https://rebeccacomas.com/)  
+  A web/graphic designer website.
+
+- [**sophiacaro.com**](https://sophiacaro.com/about/)  
+  An artist website.
+
+- [**lightroastdisco.com**](https://lightroastdisco.com/)  
+  A musician website.
+
+- [**chogo.photography**](https://chogo.photography/)  
+  A photographer website. 
+
+- [**piacenza.us**](https://piacenza.us/)  
+  A photographer website.
+
+- [**rominamoyateatro.com**](https://rominamoyateatro.com/)  
+  An actress website.
+
+*Feel free to add your site here.*  
 
 ### Features
 
@@ -164,4 +186,4 @@ cd themes/eternity && git pull && cd -
 
 ### Contact
 
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).
+If you need to contact us for any reason; send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).
