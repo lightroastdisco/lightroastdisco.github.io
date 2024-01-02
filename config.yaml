@@ -1,4 +1,4 @@
-baseURL: https://lightroastdisco.github.io # todo: change site url.
+baseURL: https://lightroastdisco.com # todo: change site url.
 title: Light Roast Disco # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
