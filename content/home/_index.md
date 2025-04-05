@@ -5,13 +5,13 @@ url: home
 
 <div align="center">
 	<p>
-        We make music and throw parties, mostly at Cafe Mustache in Logan Square. (fka RTX Sessions)<br>
+        We make music and throw parties in fun rooms.<br>
 	</p>
 	<p>
         <strong>Next Show(s):</strong>
 	</p>
 	<p>
-        <strong>Friday March 22, 2024 @ Cafe Mustache </strong>
+        <strong>Thursday April 24, 2025 @ The Faight Collective SF </strong>
 	</p>
 </div>
 
