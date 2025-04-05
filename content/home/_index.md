@@ -11,7 +11,7 @@ url: home
         <strong>Next Show(s):</strong>
 	</p>
 	<p>
-        <strong>Thursday April 24, 2025 @ The Faight Collective SF </strong>
+        <strong>Thursday April 24, 2025 @ The Faight Collective, SF </strong>
 	</p>
 </div>
 
